@@ -44,23 +44,23 @@
 ![1](https://user-images.githubusercontent.com/95544542/205308404-5125c20f-bdd9-4c0b-a35e-7fb8a609a06c.PNG)
 
 
-1) OR. Настройка и результат.
-![image](https://user-images.githubusercontent.com/104576932/205110901-6c39c846-1f5d-41db-be34-8341148aab97.png)
-Отработал и научился.
+1) Результат работы OR.
+![or](https://user-images.githubusercontent.com/95544542/205315173-1eb0efcc-cdfc-4c26-8df9-cccbd17e289b.PNG)
+Отработал и научился выполнять функции.
 
-2) AND. Настройка и результат.
-![image](https://user-images.githubusercontent.com/104576932/205113788-2a0cf030-53b2-4ec1-8a0a-61cce5a30203.png)
-Тоже в целом научился, ему хорошо.
+2) Результат работы AND.
+![and](https://user-images.githubusercontent.com/95544542/205315264-0ff88d15-20fa-453e-b017-9906a4b7b7e7.PNG)
+Так же как и OR научился и не выдал ошибок.
 
-3) NAND. Настройка и результат.
-![image](https://user-images.githubusercontent.com/104576932/205114436-d4294598-e7b9-4876-aecb-f417a96fed44.png)
-Молнеиносно научился.
+3) Результат работы Nand.
+![nand](https://user-images.githubusercontent.com/95544542/205315390-5bfd9169-45c2-4f9d-8328-e9d888304d3c.PNG)
+Видим похожу картину, как и в случае с or и and.
 
-4) XOR. Настройка и результат.
-![image](https://user-images.githubusercontent.com/104576932/205114651-2c1ee041-f886-4faa-8d48-0aea5884777e.png)
-Вообще не научился, по всем фронтам 4 ошибки словил... 
+4) Результат работы XOR.
+![xor](https://user-images.githubusercontent.com/95544542/205315501-f33c279a-588e-4df5-b659-3be03d0f099a.PNG)
+Обучить не удалось, выдал аж 4 Ошибки.
 
-Вывод по 1 заданию: Перцептрон научился проводить вычисления с OR, AND, NAND, однако с XOR всё грустно: не смог научиться производить вычисления.
+Мини вывод по 1 заданию: Из этого задания можно выявить, что алгоритм хорошо обучился с or, and и nand, но совсем не смог обучиться с XOR.
 
 
 ## Задание 2
